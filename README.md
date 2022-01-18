@@ -8,11 +8,7 @@ date:2021/1/18
 
 ### Basic - Starter Project
 
-#### branch - starter
+#### starter
 
 - [Reaction Timer Game](https://www.youtube.com/watch?v=bc6czIBLKTg&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&index=7)
 - [Simple Form](https://www.youtube.com/watch?v=ixOcve5PX-Q&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&index=8)
-
-## How to use these files
-
-Each project has it's own branch in this repo. Or you can follow the branch title to find it.
