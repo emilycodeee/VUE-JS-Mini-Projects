@@ -12,3 +12,7 @@ date:2021/1/18
 
 - [Reaction Timer Game](https://www.youtube.com/watch?v=bc6czIBLKTg&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&index=7)
 - [Simple Form](https://www.youtube.com/watch?v=ixOcve5PX-Q&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&index=8)
+
+#### vue with TypeScript & transition-group
+
+- [Job list](https://www.youtube.com/watch?v=JfI5PISLr9w&list=PL4cUxeGkcC9gCtAuEdXTjNVE5bbMFo5OD)
