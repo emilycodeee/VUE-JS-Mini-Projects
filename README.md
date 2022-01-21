@@ -20,6 +20,9 @@ date:2021/1/18
   - "sass-loader": "^10.2.1"
   - HTML Drag and Drop API
 
+- [ Reusable Modal Component](https://www.youtube.com/watch?v=NFdvWBh-D6k)
+  - Composition API & Slots
+  - scss
 
 #### vue with TypeScript & transition-group
 
