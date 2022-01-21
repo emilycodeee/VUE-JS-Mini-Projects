@@ -13,6 +13,14 @@ date:2021/1/18
 - [Reaction Timer Game](https://www.youtube.com/watch?v=bc6czIBLKTg&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&index=7)
 - [Simple Form](https://www.youtube.com/watch?v=ixOcve5PX-Q&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&index=8)
 
+#### components
+
+- [Drag/Drop with HTML Drag and Drop API](https://www.youtube.com/watch?v=wWKhKPN_Pmw&t=158s)
+  - "node-sass": "^6.0.1"
+  - "sass-loader": "^10.2.1"
+  - HTML Drag and Drop API
+
+
 #### vue with TypeScript & transition-group
 
 - [Job list](https://www.youtube.com/watch?v=JfI5PISLr9w&list=PL4cUxeGkcC9gCtAuEdXTjNVE5bbMFo5OD)
